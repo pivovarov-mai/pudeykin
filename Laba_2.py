@@ -7,7 +7,6 @@
 from scipy import linalg
 import numpy as np
 
-
 if __name__ == '__main__':
     # для метода прогонки. 1 над диагональю. И 1 под диагональю
     u = 1
